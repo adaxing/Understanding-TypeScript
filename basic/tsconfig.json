@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    // "module": "commonjs",
+    "target": "es5",
+    "noImplicitAny": false,
+    // "sourceMap": false,
+    "experimentalDecorators": true,
+    // "strictNullChecks": true, // detect whether value use before declared
+    // "noUnusedParameters": false // detect useless parameters, throw error
+  },
+  // "files": [
+  //   "app.ts",
+  //   "./typings/index.d.ts"
+  // ],
+  // "exclude": [
+  //   "node_modules"
+  // ]
+
+
+}
